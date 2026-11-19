@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>上海虹口同仁醫院清單</title>
+        <title type="translated">Shanghai Hongkou Tongren Yiyuan Qingdan [Annual Report of Tongren Hospital in Hongkou, Shanghai]</title>
+        <author>上海虹口同仁醫院</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>上海虹口同仁醫院清單</title>
+          <publisher>上海虹口同仁醫院</publisher>
+          <pubPlace>上海虹口</pubPlace>
+          <date when="1914">［1914］（館目推定）</date>
+          <idno type="shelfmark">中國國家圖書館 13jh007190／105055</idno>
+          <ref target="https://commons.wikimedia.org/?curid=131091601" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=1" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=2" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=3" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=4" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=5" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=6" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=7" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=8" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=9" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=10" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=11" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=12" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=13" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=14" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=15" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=16" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=17" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=18" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p001-c01">上海</ab>
+        <ab type="heading" n="p001-c02">虹口</ab>
+        <ab type="heading" n="p001-c03">同仁醫院清單</ab>
+        <ab type="date" n="p001-c04">西曆一千九百</ab>
+        <ab type="date" n="p001-c05">廿三</ab>
+        <ab type="date" n="p001-c06">廿四</ab>
+        <ab type="date" n="p001-c07">年</ab>
+        <ab type="date" n="p001-c08">九月十六號起</ab>
+        <ab type="date" n="p001-c09">九月十五號止</ab>
+        <ab type="date" n="p001-c10">民國二</ab>
+        <ab type="date" n="p001-c11">民國三</ab>
+        <ab type="date" n="p001-c12">年歲次</ab>
+        <ab type="date" n="p001-c13">癸丑</ab>
+        <ab type="date" n="p001-c14">甲寅</ab>
+        <pb n="2" facs="#page-2" />
+        <ab type="heading" n="p002-c01">董事部諸君姓名</ab>
+        <ab type="roster" n="p002-c02">總董郭斐尉</ab>
+        <ab type="annotation" n="p002-c03">江蘇省主教</ab>
+        <ab type="roster" n="p002-c04">嚴子均</ab>
+        <ab type="roster" n="p002-c05">高鳳池</ab>
+        <ab type="roster" n="p002-c06">唐露園</ab>
+        <ab type="roster" n="p002-c07">陳潤夫</ab>
+        <ab type="roster" n="p002-c08">譚以禮</ab>
+        <ab type="annotation" n="p002-c09">書記</ab>
+        <ab type="roster" n="p002-c10">韓玉麟</ab>
+        <ab type="roster" n="p002-c11">聶管臣</ab>
+        <ab type="roster" n="p002-c12">王寶峯</ab>
+        <ab type="roster" n="p002-c13">武棟森</ab>
+        <fw type="running" n="p002-c14">同仁醫院清單</fw>
+        <pb n="3" facs="#page-3" />
+        <ab type="heading" n="p003-c01">本院辦事人員姓名職務</ab>
+        <ab type="role" n="p003-c02">醫士</ab>
+        <ab type="role" n="p003-c03">配藥</ab>
+        <ab type="role" n="p003-c04">總帳</ab>
+        <ab type="role" n="p003-c05">帳房</ab>
+        <ab type="role" n="p003-c06">教務</ab>
+        <ab type="role" n="p003-c07">護病西女士</ab>
+        <ab type="roster" n="p003-c08">馬立師</ab>
+        <ab type="roster" n="p003-c09">德奧格</ab>
+        <ab type="roster" n="p003-c10">莫約瑟</ab>
+        <ab type="roster" n="p003-c11">刁信德</ab>
+        <ab type="roster" n="p003-c12">洪吏卿</ab>
+        <ab type="roster" n="p003-c13">李藹門</ab>
+        <ab type="roster" n="p003-c14">張翔慶</ab>
+        <ab type="roster" n="p003-c15">湯謁禮</ab>
+        <ab type="roster" n="p003-c16">貝小姐</ab>
+        <ab type="roster" n="p003-c17">古恩康</ab>
+        <ab type="roster" n="p003-c18">高恩養</ab>
+        <ab type="roster" n="p003-c19">吳慶元</ab>
+        <ab type="roster" n="p003-c20">楊靜源</ab>
+        <ab type="roster" n="p003-c21">汪孝奎</ab>
+        <ab type="roster" n="p003-c22">吉小姐</ab>
+        <ab type="roster" n="p003-c23">譚以禮</ab>
+        <ab type="annotation" n="p003-c24">告辭</ab>
+        <ab type="roster" n="p003-c25">陳鴻瑞</ab>
+        <ab type="roster" n="p003-c26">高小姐</ab>
+        <ab type="annotation" n="p003-c27">告辭</ab>
+        <fw type="running" n="p003-c28">同仁醫院清單</fw>
+        <fw type="folio" n="p003-c29">二</fw>
+        <pb n="4" facs="#page-4" />
+        <ab type="heading" n="p004-c01">就診條例</ab>
+        <ab type="heading" n="p004-c02">一門診</ab>
+        <ab type="body" n="p004-c03">除禮拜日外每日分上下午門診上午門診為有力者設立自九</ab>
+        <ab type="body" n="p004-c04">時至十二時止號金洋一元至二元另加藥資下午門診專為貧</ab>
+        <ab type="body" n="p004-c05">病自二時至四時止祇取號金錢五十文稍有力者略貼藥資實</ab>
+        <ab type="body" n="p004-c06">係無力者號金概不收取</ab>
+        <ab type="heading" n="p004-c07">一急診</ab>
+        <ab type="body" n="p004-c08">如有服毒吞金暴病及跌打損傷等症可隨時來院就診並不收</ab>
+        <ab type="body" n="p004-c09">費</ab>
+        <ab type="heading" n="p004-c10">一住院</ab>
+        <ab type="body" n="p004-c11">住院病人分內外科及上中下三等貧病毫不取費稍有力者每</ab>
+        <ab type="body" n="p004-c12">日貼飯資洋二角包住上等房間者其費每日自一元至三元半</ab>
+        <ab type="body" n="p004-c13">不等住統房間之病人須先貼資一月住包房間之病人須先惠</ab>
+        <ab type="body" n="p004-c14">費一禮拜如有可靠保人作保無庸先付</ab>
+        <ab type="body" n="p004-c15">凡外科一切割症不特醫治艱辛並藥類費甚貴故有力病人就</ab>
+        <fw type="running" n="p004-c16">同仁醫院清單</fw>
+        <fw type="folio" n="p004-c17">三</fw>
+        <pb n="5" facs="#page-5" />
+        <ab type="body" n="p005-c01">醫者須另加開刀費自五元至一百元不等以視其症之重輕為</ab>
+        <ab type="body" n="p005-c02">率</ab>
+        <ab type="heading" n="p005-c03">一種痘</ab>
+        <ab type="body" n="p005-c04">自十月起至五月止每禮拜施種牛痘三次逢禮拜一三六為布</ab>
+        <ab type="body" n="p005-c05">種之期來種者概不收費</ab>
+        <ab type="heading" n="p005-c06">一出診</ab>
+        <ab type="body" n="p005-c07">倘有請本院醫生出診者亦可其醫金洋自五元起至八元止不</ab>
+        <ab type="body" n="p005-c08">等若實在無力者准可免費</ab>
+        <ab type="heading" n="p005-c09">一實驗室</ab>
+        <ab type="body" n="p005-c10">本室專驗病人一切疑難雜症本院今復增辦一切最新式最有</ab>
+        <ab type="body" n="p005-c11">效用之器無不完備可以細察病家之眞實病源得以應手奏效</ab>
+        <ab type="body" n="p005-c12">不負來者之所求焉</ab>
+        <fw type="running" n="p005-c13">同仁醫院清單</fw>
+        <fw type="folio" n="p005-c14">四</fw>
+        <pb n="6" facs="#page-6" />
+        <ab type="heading" n="p006-c01">本年紀事</ab>
+        <ab type="body" n="p006-c02">本院自創辦迄今已越四十有八載歷盡千百艱辛庶克臻此大備即以去秋</ab>
+        <ab type="body" n="p006-c03">較之今歲更覺興旺治理醫務亦見進步本院現任諸醫士有在美國醫學專</ab>
+        <ab type="body" n="p006-c04">科畢業者四位中國畢業者四位其間有德奧格醫士去歲返國今已回院任</ab>
+        <ab type="body" n="p006-c05">事經此一番往返體魄精神尤增強健又如刁信德醫生於前歲專誠赴美考</ab>
+        <ab type="body" n="p006-c06">察最新醫學今亦回院主持調驗事務無不盡心體察更有麥克根醫士曾在</ab>
+        <ab type="body" n="p006-c07">粵省施醫七年兼任本薛文義醫學校事今因該校併設滬江聖約翰大學校</ab>
+        <ab type="body" n="p006-c08">內因此麥君能得來滬任理本院醫事回憶去歲院中醫士尚少於今而負病</ab>
+        <ab type="body" n="p006-c09">求診者年復增廣雖得各醫士照常擔負恆有病狀不敷之憂故於今歲特添</ab>
+        <ab type="body" n="p006-c10">看護服役等人以及添置器具藥品與種種便人之事固不畢舉更望將來再</ab>
+        <ab type="body" n="p006-c11">能擴充病室尤所深願向我本院中醫辦事亦甚得手惜乎譚虞二醫生於今</ab>
+        <ab type="body" n="p006-c12">秋自行告辭離院幸喜吳慶元及高恩養二醫士允聘來院以承斯職尤喜哈</ab>
+        <fw type="running" n="p006-c13">同仁醫院清單</fw>
+        <fw type="folio" n="p006-c14">五</fw>
+        <pb n="7" facs="#page-7" />
+        <ab type="body" n="p007-c01">佛醫院允許常川三位醫士來院以盡義務又若本院看護女士本祇二位今</ab>
+        <ab type="body" n="p007-c02">又增聘吉小姐一位聯前三位俾便病人較為周到致於陶養病人之道德則</ab>
+        <ab type="body" n="p007-c03">有湯老牧師與汪會吏等主任勸導而湯牧師年已耄耋誕慶八旬同院咸深</ab>
+        <ab type="body" n="p007-c04">欣羨皆曰其能導人於善故天佑之以壽亦天欲假其人與衆醫士以福病者</ab>
+        <ab type="body" n="p007-c05">更得中西各行號及諸大善士之不吝囊金慨然施濟故此本年本院得以治</ab>
+        <ab type="body" n="p007-c06">愈病人將及十萬此不獨本院之幸而於各病家更當感戴靡暨焉</ab>
+        <fw type="running" n="p007-c07">同仁醫院清單</fw>
+        <fw type="folio" n="p007-c08">六</fw>
+        <pb n="8" facs="#page-8" />
+        <ab type="date" n="p008-c01">一千九百十三年至一千九百十四年</ab>
+        <table n="p008-table">
+          <head>統年診治內外科病人表</head>
+          <row role="label">
+            <cell />
+            <cell>內科</cell>
+            <cell>外科</cell>
+            <cell>眼科</cell>
+            <cell>總數</cell>
+          </row>
+          <row>
+            <cell>住院病人</cell>
+            <cell>三百六十八人</cell>
+            <cell>一千○五十六人</cell>
+            <cell>一百○八人</cell>
+            <cell>一千五百三十二人</cell>
+          </row>
+          <row>
+            <cell>門診</cell>
+            <cell>一萬四千五百八十一人</cell>
+            <cell>六萬○○九十八人</cell>
+            <cell>五千八百四十二人</cell>
+            <cell>八萬○五百十三人</cell>
+          </row>
+          <row>
+            <cell>出診及特別掛號</cell>
+            <cell>三百十八人</cell>
+            <cell>七百十六人</cell>
+            <cell>七十一人</cell>
+            <cell>一千一百○五人</cell>
+          </row>
+          <row>
+            <cell>急診</cell>
+            <cell>三百七十七人</cell>
+            <cell>五千七百六十人</cell>
+            <cell>無</cell>
+            <cell>六千一百三十七人</cell>
+          </row>
+          <row>
+            <cell>救治服食烟毒</cell>
+            <cell>四百十四人</cell>
+            <cell>無</cell>
+            <cell>無</cell>
+            <cell>四百十四人</cell>
+          </row>
+          <row>
+            <cell>種痘</cell>
+            <cell>無</cell>
+            <cell>五百十二人</cell>
+            <cell>無</cell>
+            <cell>五百十二人</cell>
+          </row>
+          <row>
+            <cell>總數</cell>
+            <cell>一萬六千○五十八人</cell>
+            <cell>六萬八千一百三十四人</cell>
+            <cell>六千○二十一人</cell>
+            <cell>九萬○二百十三人</cell>
+          </row>
+        </table>
+        <fw type="running" n="p008-c02">同仁醫院清單</fw>
+        <fw type="folio" n="p008-c03">七</fw>
+        <pb n="9" facs="#page-9" />
+        <ab type="heading" n="p009-c01">一千九百十三年各項入款列左</ab>
+        <table n="p009-table">
+          <row>
+            <cell>上年存款</cell>
+            <cell>洋四十八元四角一分</cell>
+          </row>
+          <row>
+            <cell>西人捐</cell>
+            <cell>洋四千二百三十六元二角三分</cell>
+          </row>
+          <row>
+            <cell>華人捐</cell>
+            <cell>洋一千二百二十八元五角</cell>
+          </row>
+          <row>
+            <cell>號金</cell>
+            <cell>洋二千八百四十三元一角六分</cell>
+          </row>
+          <row>
+            <cell>膳金</cell>
+            <cell>洋一百二十四元零三分</cell>
+          </row>
+          <row>
+            <cell>包房間病人</cell>
+            <cell>洋六千四百零九元九角八分</cell>
+          </row>
+          <row>
+            <cell>美國聖公會助款</cell>
+            <cell>洋三千二百零九元九角</cell>
+          </row>
+          <row>
+            <cell>捐款</cell>
+            <cell>洋十一元九角</cell>
+          </row>
+          <row>
+            <cell>利息</cell>
+            <cell>洋七百六十元八角七分</cell>
+          </row>
+          <row>
+            <cell>英美工部局助款</cell>
+            <cell>洋四千零六十八元一角九分</cell>
+          </row>
+          <row>
+            <cell>法工部局助款</cell>
+            <cell>洋一百三十五元一角三分</cell>
+          </row>
+        </table>
+        <fw type="running" n="p009-c02">同仁醫院清單</fw>
+        <fw type="folio" n="p009-c03">八</fw>
+        <pb n="10" facs="#page-10" />
+        <ab type="total" n="p010-c01">共計洋二萬七千四百三十九元八角</ab>
+        <ab type="heading" n="p010-c02">一千九百十三年各項出款列左</ab>
+        <table n="p010-table">
+          <row>
+            <cell>中外清單賬簿醫單等</cell>
+            <cell>洋六十一元三角六分</cell>
+          </row>
+          <row>
+            <cell>雜項</cell>
+            <cell>洋三十九元六角三分</cell>
+          </row>
+          <row>
+            <cell>添置傢生等</cell>
+            <cell>洋一千九百零四元三角七分</cell>
+          </row>
+          <row>
+            <cell>薪水</cell>
+            <cell>洋四千三百三十七元八角二分</cell>
+          </row>
+          <row>
+            <cell>修理</cell>
+            <cell>洋一千八百三十三元一角二分</cell>
+          </row>
+          <row>
+            <cell>藥材及外症所用各物</cell>
+            <cell>洋四千五百二十七元七角二分</cell>
+          </row>
+          <row>
+            <cell>工金</cell>
+            <cell>洋二千八百五十二元四角二分</cell>
+          </row>
+          <row>
+            <cell>煤水火費</cell>
+            <cell>洋二千四百十六元二角五分</cell>
+          </row>
+          <row>
+            <cell>地捐及保險德律風費</cell>
+            <cell>洋五百六十四元七角五分</cell>
+          </row>
+          <row>
+            <cell>裝修房屋</cell>
+            <cell>洋二千七百五十四元八角二分</cell>
+          </row>
+        </table>
+        <fw type="running" n="p010-c03">同仁醫院清單</fw>
+        <fw type="folio" n="p010-c04">九</fw>
+        <pb n="11" facs="#page-11" />
+        <table n="p011-table">
+          <row>
+            <cell>房租</cell>
+            <cell>洋九百三十六元五角</cell>
+          </row>
+          <row>
+            <cell>出門行醫盤費</cell>
+            <cell>洋六十八元一角九分</cell>
+          </row>
+          <row>
+            <cell>收西人捐薪水</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洗衣費</cell>
+            <cell>洋六百二十元</cell>
+          </row>
+          <row>
+            <cell>廚房</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>存滙豐銀行</cell>
+            <cell>洋一百五十九元三角六分</cell>
+          </row>
+          <row>
+            <cell>共計</cell>
+            <cell />
+          </row>
+        </table>
+        <fw type="running" n="p011-c01">同仁醫院清單</fw>
+        <fw type="folio" n="p011-c02">十</fw>
+        <pb n="12" facs="#page-12" />
+        <ab type="heading" n="p012-c01">捐助諸君姓名列後</ab>
+        <table n="p012-table">
+          <row>
+            <cell>青年會</cell>
+            <cell>捐洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>恆昌祥機器廠</cell>
+            <cell>捐洋一百三十六元二角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>恆豐紡織新局</cell>
+            <cell>捐洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>又新工廠</cell>
+            <cell>捐洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>滬楓鐵路總工成局</cell>
+            <cell>捐洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>招商內河輪船局</cell>
+            <cell>捐洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裕昌泰</cell>
+            <cell>捐洋一百元</cell>
+            <cell>升記</cell>
+          </row>
+          <row>
+            <cell>武棟森君</cell>
+            <cell>捐洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>宏昌碾米廠</cell>
+            <cell>捐洋三十元七角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李九梅君</cell>
+            <cell>捐洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>史娘娘</cell>
+            <cell>捐洋二十四元</cell>
+            <cell />
+          </row>
+        </table>
+        <fw type="running" n="p012-c02">同仁醫院清單</fw>
+        <fw type="folio" n="p012-c03">十一</fw>
+        <pb n="13" facs="#page-13" />
+        <table n="p013-table">
+          <row>
+            <cell>王寶峯</cell>
+            <cell>捐洋二十元</cell>
+          </row>
+          <row>
+            <cell>陶鶴停</cell>
+            <cell>捐洋十六元六角</cell>
+          </row>
+          <row>
+            <cell>熊謙恬</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>光裕堂</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>大豐洋布號</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>慎德堂</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>浙江銀行</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>楊漢汀君</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>劉寶餘君</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>陳合元君</cell>
+            <cell>捐洋十元</cell>
+          </row>
+          <row>
+            <cell>夏祖根君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+          <row>
+            <cell>吳學祖君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+        </table>
+        <fw type="running" n="p013-c01">同仁醫院清單</fw>
+        <fw type="folio" n="p013-c02">十二</fw>
+        <pb n="14" facs="#page-14" />
+        <table n="p014-table">
+          <row>
+            <cell>張介美君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+          <row>
+            <cell>楊子榮君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+          <row>
+            <cell>唐鴻樓君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+          <row>
+            <cell>吳阿喜君</cell>
+            <cell>捐洋五元</cell>
+          </row>
+          <row>
+            <cell>胡永生君</cell>
+            <cell>捐洋三元</cell>
+          </row>
+          <row>
+            <cell>李大元君</cell>
+            <cell>捐洋二元</cell>
+          </row>
+          <row>
+            <cell>王美泰君</cell>
+            <cell>捐洋二元</cell>
+          </row>
+          <row>
+            <cell>李少卿君</cell>
+            <cell>捐洋二元</cell>
+          </row>
+          <row>
+            <cell>黃仰九君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>胡麗堂君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>姚洪梅君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>陸阿臣君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+        </table>
+        <fw type="running" n="p014-c01">同仁醫院清單</fw>
+        <fw type="folio" n="p014-c02">十三</fw>
+        <pb n="15" facs="#page-15" />
+        <table n="p015-table">
+          <row>
+            <cell>金祥生君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>龔錫卿君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>榮子民君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>吳少春君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>袁培盛君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>無民氏</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>郁聽濤君</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>聚康莊</cell>
+            <cell>捐洋一元</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>捐洋九十元（此一項內有數位名姓不詳）</cell>
+          </row>
+        </table>
+        <ab type="subtotal" n="p015-c01">以上共給一千二百二十八元五角</ab>
+        <table n="p015-table-b">
+          <row>
+            <cell>樊皇渡聖約翰堂</cell>
+            <cell>捐洋一百零五元一角二分</cell>
+          </row>
+          <row>
+            <cell>招商局</cell>
+            <cell>捐洋五十元</cell>
+          </row>
+        </table>
+        <fw type="running" n="p015-c02">同仁醫院清單</fw>
+        <fw type="folio" n="p015-c03">十四</fw>
+        <pb n="16" facs="#page-16" />
+        <table n="p016-table">
+          <row>
+            <cell>招商局（虹口及楊家渡碼頭）</cell>
+            <cell>捐洋五十元</cell>
+          </row>
+          <row>
+            <cell>中國銀行</cell>
+            <cell>捐洋十元</cell>
+          </row>
+        </table>
+        <ab type="body" n="p016-c01">以上四項已入西文清單簿</ab>
+        <ab type="body" n="p016-c02">茲再入華文清單簿觀冊諸君更可一目了然</ab>
+        <fw type="running" n="p016-c03">同仁醫院清單</fw>
+        <fw type="folio" n="p016-c04">十五</fw>
+        <pb n="17" facs="#page-17" />
+        <fw type="running" n="p017-c01">同仁醫院清單</fw>
+        <fw type="folio" n="p017-c02">十六</fw>
+        <pb n="18" facs="#page-18" />
+      </div>
+    </body>
+  </text>
+</TEI>

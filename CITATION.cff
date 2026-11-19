@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "上海虹口同仁醫院清單 | Shanghai Hongkou Tongren Yiyuan Qingdan [Annual Report of Tongren Hospital in Hongkou, Shanghai]"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "上海虹口同仁醫院"
+  - "上海"
+  - "虹口"
+  - "醫療慈善"
+  - "醫院年報"
+  - "捐款名錄"
+  - "收支帳"
+  - "醫學史"
+  - "Shanghai"
+  - "Hongkou"
+  - "hospital annual reports"
+  - "medical philanthropy"
+  - "donor records"
+  - "medical history"
+  - "TEI"
+identifiers:
+  - type: url
+    value: "https://commons.wikimedia.org/?curid=131091601"

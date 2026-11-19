@@ -1,0 +1,2003 @@
+{
+  "key": "hongkou",
+  "version": "0.1.0",
+  "title": "上海虹口同仁醫院清單",
+  "title_en": "Shanghai Hongkou Tongren Yiyuan Qingdan [Annual Report of Tongren Hospital in Hongkou, Shanghai]",
+  "year": 1914,
+  "year_label": "［1914］（館目推定）",
+  "language": "zh-Hant",
+  "author": "上海虹口同仁醫院",
+  "publisher": "上海虹口同仁醫院",
+  "place": "上海虹口",
+  "image_count": 18,
+  "main_range": [
+    1,
+    17
+  ],
+  "file": "NLC416-13jh007190-105055 上海虹口同仁醫院清單.pdf",
+  "source_id": "中國國家圖書館 13jh007190／105055",
+  "source": "https://commons.wikimedia.org/?curid=131091601",
+  "original_source": "https://read.nlc.cn/allSearch/searchDetail?searchType=24&showType=1&indexName=data_416&fid=13jh007190",
+  "notes_zh": "《上海虹口同仁醫院清單》記錄上海虹口同仁醫院 1913 年 9 月至 1914 年 9 月的董事及職員、就診條例、院務紀事、門診與住院統計及收支捐款。本資料依中國國家圖書館 13jh007190／105055 底本，含封面、印本正文、逐欄表格、圖案與現代館藏標記的位置。",
+  "notes_en": "This report of Tongren Hospital in Hongkou, Shanghai covers the year from 16 September 1913 to 15 September 1914. It includes its board and staff roster, admission regulations, institutional notes, service statistics, accounts, and donor lists. This dataset transcribes the National Library of China copy 13jh007190 / 105055, with reading and source pointers for all 18 scan frames.",
+  "quality_summary": "全冊 AI 輔助初錄，17 幅含原刊文字，末幅為後加館藏標記。疑讀與原件位置另記。尚待人工逐字核對。",
+  "keywords": [
+    "上海虹口同仁醫院",
+    "上海",
+    "虹口",
+    "醫療慈善",
+    "醫院年報",
+    "捐款名錄",
+    "收支帳",
+    "醫學史",
+    "Shanghai",
+    "Hongkou",
+    "hospital annual reports",
+    "medical philanthropy",
+    "donor records",
+    "medical history",
+    "TEI"
+  ],
+  "pages": [
+    {
+      "page_id": "p001",
+      "image": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=1",
+      "source_sha256": "099f5041c5b31ea20534f5c794cda8ded05704abe485132718e7c39a4fa8d65f",
+      "width": 972,
+      "height": 1600,
+      "bytes": 42822,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p001-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "上海",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p001-c02",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "虹口",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p001-c03",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p001-c04",
+          "kind": "date",
+          "layer": "date",
+          "text": "西曆一千九百",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p001-c05",
+          "kind": "date",
+          "layer": "date",
+          "text": "廿三",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p001-c06",
+          "kind": "date",
+          "layer": "date",
+          "text": "廿四",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p001-c07",
+          "kind": "date",
+          "layer": "date",
+          "text": "年",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p001-c08",
+          "kind": "date",
+          "layer": "date",
+          "text": "九月十六號起",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p001-c09",
+          "kind": "date",
+          "layer": "date",
+          "text": "九月十五號止",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p001-c10",
+          "kind": "date",
+          "layer": "date",
+          "text": "民國二",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p001-c11",
+          "kind": "date",
+          "layer": "date",
+          "text": "民國三",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p001-c12",
+          "kind": "date",
+          "layer": "date",
+          "text": "年歲次",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p001-c13",
+          "kind": "date",
+          "layer": "date",
+          "text": "癸丑",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p001-c14",
+          "kind": "date",
+          "layer": "date",
+          "text": "甲寅",
+          "bbox": null,
+          "order": 13
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "date": "complete"
+      },
+      "layout_note": "封面分書題與兩側年代欄。重合排印的年、歲次等字各記一次，獨立保留左右所對的兩個紀年。右下館藏標籤未入原刊文本。"
+    },
+    {
+      "page_id": "p002",
+      "image": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=2",
+      "source_sha256": "508bb2e85acf2815c9346fe2fc6816f9b3862c3c46e8600843d0a02d9bf8297a",
+      "width": 1201,
+      "height": 1600,
+      "bytes": 44381,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p002-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "董事部諸君姓名",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p002-c02",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "總董郭斐尉",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p002-c03",
+          "kind": "annotation",
+          "layer": "annotation",
+          "text": "江蘇省主教",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p002-c04",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴子均",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p002-c05",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "高鳳池",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p002-c06",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "唐露園",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p002-c07",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳潤夫",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p002-c08",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "譚以禮",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p002-c09",
+          "kind": "annotation",
+          "layer": "annotation",
+          "text": "書記",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p002-c10",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "韓玉麟",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p002-c11",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "聶管臣",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p002-c12",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "王寶峯",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p002-c13",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "武棟森",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p002-c14",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 13
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "roster": "complete",
+        "annotation": "complete",
+        "running": "complete"
+      },
+      "layout_note": "正文兩列董員名與小字職銜。鉛筆架號、條碼與後加館章分別排除。",
+      "reading_questions": [
+        "總董的譯名中兩字初讀斐尉，候選有裴；須以圖核華名，不據歷史通行拼法改。",
+        "王寶峯同見 p013，字形待核對。"
+      ]
+    },
+    {
+      "page_id": "p003",
+      "image": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=3",
+      "source_sha256": "0748af1a697c612aba0b6d84bf2796fb21b667c2c304aa0938c60b7c61283b87",
+      "width": 1223,
+      "height": 1600,
+      "bytes": 48310,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p003-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "本院辦事人員姓名職務",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p003-c02",
+          "kind": "role",
+          "layer": "role",
+          "text": "醫士",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p003-c03",
+          "kind": "role",
+          "layer": "role",
+          "text": "配藥",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p003-c04",
+          "kind": "role",
+          "layer": "role",
+          "text": "總帳",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p003-c05",
+          "kind": "role",
+          "layer": "role",
+          "text": "帳房",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p003-c06",
+          "kind": "role",
+          "layer": "role",
+          "text": "教務",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p003-c07",
+          "kind": "role",
+          "layer": "role",
+          "text": "護病西女士",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p003-c08",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馬立師",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p003-c09",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "德奧格",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p003-c10",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "莫約瑟",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p003-c11",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "刁信德",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p003-c12",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "洪吏卿",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p003-c13",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "李藹門",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p003-c14",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "張翔慶",
+          "bbox": null,
+          "order": 13
+        },
+        {
+          "id": "p003-c15",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "湯謁禮",
+          "bbox": null,
+          "order": 14
+        },
+        {
+          "id": "p003-c16",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "貝小姐",
+          "bbox": null,
+          "order": 15
+        },
+        {
+          "id": "p003-c17",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "古恩康",
+          "bbox": null,
+          "order": 16
+        },
+        {
+          "id": "p003-c18",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "高恩養",
+          "bbox": null,
+          "order": 17
+        },
+        {
+          "id": "p003-c19",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "吳慶元",
+          "bbox": null,
+          "order": 18
+        },
+        {
+          "id": "p003-c20",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "楊靜源",
+          "bbox": null,
+          "order": 19
+        },
+        {
+          "id": "p003-c21",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "汪孝奎",
+          "bbox": null,
+          "order": 20
+        },
+        {
+          "id": "p003-c22",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "吉小姐",
+          "bbox": null,
+          "order": 21
+        },
+        {
+          "id": "p003-c23",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "譚以禮",
+          "bbox": null,
+          "order": 22
+        },
+        {
+          "id": "p003-c24",
+          "kind": "annotation",
+          "layer": "annotation",
+          "text": "告辭",
+          "bbox": null,
+          "order": 23
+        },
+        {
+          "id": "p003-c25",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳鴻瑞",
+          "bbox": null,
+          "order": 24
+        },
+        {
+          "id": "p003-c26",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "高小姐",
+          "bbox": null,
+          "order": 25
+        },
+        {
+          "id": "p003-c27",
+          "kind": "annotation",
+          "layer": "annotation",
+          "text": "告辭",
+          "bbox": null,
+          "order": 26
+        },
+        {
+          "id": "p003-c28",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 27
+        },
+        {
+          "id": "p003-c29",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二",
+          "bbox": null,
+          "order": 28
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "role": "complete",
+        "roster": "complete",
+        "annotation": "complete",
+        "running": "complete",
+        "folio": "complete"
+      },
+      "layout_note": "職目與人名按各印刷橫帶保留。印刷空位保留在版式記錄，未據相鄰位置補作任職關係。",
+      "reading_questions": [
+        "洪吏卿、李藹門及湯謁禮為初讀，姓名須逐字回圖。所有職務對應保留圖面原位，沒有推論。"
+      ]
+    },
+    {
+      "page_id": "p004",
+      "image": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=4",
+      "source_sha256": "f1552582c9f1f1cbbbcf37c4ba25febe8bf7b0f90f105bf8ac99d3dca5c9222a",
+      "width": 1223,
+      "height": 1600,
+      "bytes": 91141,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p004-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "就診條例",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p004-c02",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一門診",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p004-c03",
+          "kind": "body",
+          "layer": "body",
+          "text": "除禮拜日外每日分上下午門診上午門診為有力者設立自九",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p004-c04",
+          "kind": "body",
+          "layer": "body",
+          "text": "時至十二時止號金洋一元至二元另加藥資下午門診專為貧",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p004-c05",
+          "kind": "body",
+          "layer": "body",
+          "text": "病自二時至四時止祇取號金錢五十文稍有力者略貼藥資實",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p004-c06",
+          "kind": "body",
+          "layer": "body",
+          "text": "係無力者號金概不收取",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p004-c07",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一急診",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p004-c08",
+          "kind": "body",
+          "layer": "body",
+          "text": "如有服毒吞金暴病及跌打損傷等症可隨時來院就診並不收",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p004-c09",
+          "kind": "body",
+          "layer": "body",
+          "text": "費",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p004-c10",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一住院",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p004-c11",
+          "kind": "body",
+          "layer": "body",
+          "text": "住院病人分內外科及上中下三等貧病毫不取費稍有力者每",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p004-c12",
+          "kind": "body",
+          "layer": "body",
+          "text": "日貼飯資洋二角包住上等房間者其費每日自一元至三元半",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p004-c13",
+          "kind": "body",
+          "layer": "body",
+          "text": "不等住統房間之病人須先貼資一月住包房間之病人須先惠",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p004-c14",
+          "kind": "body",
+          "layer": "body",
+          "text": "費一禮拜如有可靠保人作保無庸先付",
+          "bbox": null,
+          "order": 13
+        },
+        {
+          "id": "p004-c15",
+          "kind": "body",
+          "layer": "body",
+          "text": "凡外科一切割症不特醫治艱辛並藥類費甚貴故有力病人就",
+          "bbox": null,
+          "order": 14
+        },
+        {
+          "id": "p004-c16",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 15
+        },
+        {
+          "id": "p004-c17",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三",
+          "bbox": null,
+          "order": 16
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "body": "complete",
+        "running": "complete",
+        "folio": "complete"
+      },
+      "reading_questions": [
+        "住院末第二完整欄「先惠」初讀，候選「先惠／先惠〔音形待核〕」，以影像原字為準。"
+      ]
+    },
+    {
+      "page_id": "p005",
+      "image": 5,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=5",
+      "source_sha256": "faf52e320058db7c782a78a72afbdfee4e358eae4b588712096df3e7fe3abe0c",
+      "width": 1187,
+      "height": 1600,
+      "bytes": 72223,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p005-c01",
+          "kind": "body",
+          "layer": "body",
+          "text": "醫者須另加開刀費自五元至一百元不等以視其症之重輕為",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p005-c02",
+          "kind": "body",
+          "layer": "body",
+          "text": "率",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p005-c03",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一種痘",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p005-c04",
+          "kind": "body",
+          "layer": "body",
+          "text": "自十月起至五月止每禮拜施種牛痘三次逢禮拜一三六為布",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p005-c05",
+          "kind": "body",
+          "layer": "body",
+          "text": "種之期來種者概不收費",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p005-c06",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一出診",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p005-c07",
+          "kind": "body",
+          "layer": "body",
+          "text": "倘有請本院醫生出診者亦可其醫金洋自五元起至八元止不",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p005-c08",
+          "kind": "body",
+          "layer": "body",
+          "text": "等若實在無力者准可免費",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p005-c09",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一實驗室",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p005-c10",
+          "kind": "body",
+          "layer": "body",
+          "text": "本室專驗病人一切疑難雜症本院今復增辦一切最新式最有",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p005-c11",
+          "kind": "body",
+          "layer": "body",
+          "text": "效用之器無不完備可以細察病家之眞實病源得以應手奏效",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p005-c12",
+          "kind": "body",
+          "layer": "body",
+          "text": "不負來者之所求焉",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p005-c13",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p005-c14",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "四",
+          "bbox": null,
+          "order": 13
+        }
+      ],
+      "layer_states": {
+        "body": "complete",
+        "heading": "complete",
+        "running": "complete",
+        "folio": "complete"
+      }
+    },
+    {
+      "page_id": "p006",
+      "image": 6,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=6",
+      "source_sha256": "9afe67037745d5bf8bb3a08d9045778f1fad19748dbda475ab28aab5b56754e1",
+      "width": 1187,
+      "height": 1600,
+      "bytes": 123351,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p006-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "本年紀事",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p006-c02",
+          "kind": "body",
+          "layer": "body",
+          "text": "本院自創辦迄今已越四十有八載歷盡千百艱辛庶克臻此大備即以去秋",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p006-c03",
+          "kind": "body",
+          "layer": "body",
+          "text": "較之今歲更覺興旺治理醫務亦見進步本院現任諸醫士有在美國醫學專",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p006-c04",
+          "kind": "body",
+          "layer": "body",
+          "text": "科畢業者四位中國畢業者四位其間有德奧格醫士去歲返國今已回院任",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p006-c05",
+          "kind": "body",
+          "layer": "body",
+          "text": "事經此一番往返體魄精神尤增強健又如刁信德醫生於前歲專誠赴美考",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p006-c06",
+          "kind": "body",
+          "layer": "body",
+          "text": "察最新醫學今亦回院主持調驗事務無不盡心體察更有麥克根醫士曾在",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p006-c07",
+          "kind": "body",
+          "layer": "body",
+          "text": "粵省施醫七年兼任本薛文義醫學校事今因該校併設滬江聖約翰大學校",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p006-c08",
+          "kind": "body",
+          "layer": "body",
+          "text": "內因此麥君能得來滬任理本院醫事回憶去歲院中醫士尚少於今而負病",
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "p006-c09",
+          "kind": "body",
+          "layer": "body",
+          "text": "求診者年復增廣雖得各醫士照常擔負恆有病狀不敷之憂故於今歲特添",
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "p006-c10",
+          "kind": "body",
+          "layer": "body",
+          "text": "看護服役等人以及添置器具藥品與種種便人之事固不畢舉更望將來再",
+          "bbox": null,
+          "order": 9
+        },
+        {
+          "id": "p006-c11",
+          "kind": "body",
+          "layer": "body",
+          "text": "能擴充病室尤所深願向我本院中醫辦事亦甚得手惜乎譚虞二醫生於今",
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "p006-c12",
+          "kind": "body",
+          "layer": "body",
+          "text": "秋自行告辭離院幸喜吳慶元及高恩養二醫士允聘來院以承斯職尤喜哈",
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "p006-c13",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 12
+        },
+        {
+          "id": "p006-c14",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "五",
+          "bbox": null,
+          "order": 13
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "body": "complete",
+        "running": "complete",
+        "folio": "complete"
+      },
+      "reading_questions": [
+        "「調驗」「薛文義」及譚虞二姓初讀待對圖。"
+      ]
+    },
+    {
+      "page_id": "p007",
+      "image": 7,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=7",
+      "source_sha256": "e0b51c91350f8fc5e53faa7e58a7c125a77858be1a3534c189f051dae559bd92",
+      "width": 1187,
+      "height": 1600,
+      "bytes": 78435,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p007-c01",
+          "kind": "body",
+          "layer": "body",
+          "text": "佛醫院允許常川三位醫士來院以盡義務又若本院看護女士本祇二位今",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p007-c02",
+          "kind": "body",
+          "layer": "body",
+          "text": "又增聘吉小姐一位聯前三位俾便病人較為周到致於陶養病人之道德則",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p007-c03",
+          "kind": "body",
+          "layer": "body",
+          "text": "有湯老牧師與汪會吏等主任勸導而湯牧師年已耄耋誕慶八旬同院咸深",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p007-c04",
+          "kind": "body",
+          "layer": "body",
+          "text": "欣羨皆曰其能導人於善故天佑之以壽亦天欲假其人與衆醫士以福病者",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p007-c05",
+          "kind": "body",
+          "layer": "body",
+          "text": "更得中西各行號及諸大善士之不吝囊金慨然施濟故此本年本院得以治",
+          "bbox": null,
+          "order": 4
+        },
+        {
+          "id": "p007-c06",
+          "kind": "body",
+          "layer": "body",
+          "text": "愈病人將及十萬此不獨本院之幸而於各病家更當感戴靡暨焉",
+          "bbox": null,
+          "order": 5
+        },
+        {
+          "id": "p007-c07",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 6
+        },
+        {
+          "id": "p007-c08",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "六",
+          "bbox": null,
+          "order": 7
+        }
+      ],
+      "layer_states": {
+        "body": "complete",
+        "running": "complete",
+        "folio": "complete"
+      },
+      "reading_questions": [
+        "結尾「靡暨」先存初讀，字形和詞義待獨立覆核。"
+      ]
+    },
+    {
+      "page_id": "p008",
+      "image": 8,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=8",
+      "source_sha256": "e4b63e5efd7b32fad0a8495bf60a64f315581b660cf2a6cffd40c31ad935972c",
+      "width": 1187,
+      "height": 1600,
+      "bytes": 64135,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p008-c01",
+          "kind": "date",
+          "layer": "date",
+          "text": "一千九百十三年至一千九百十四年",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p008-c02",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p008-c03",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "七",
+          "bbox": null,
+          "order": 3
+        }
+      ],
+      "layer_states": {
+        "date": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p008-table",
+          "title": "統年診治內外科病人表",
+          "value_labels": [
+            "內科",
+            "外科",
+            "眼科",
+            "總數"
+          ],
+          "rows": [
+            [
+              "住院病人",
+              "三百六十八人",
+              "一千○五十六人",
+              "一百○八人",
+              "一千五百三十二人"
+            ],
+            [
+              "門診",
+              "一萬四千五百八十一人",
+              "六萬○○九十八人",
+              "五千八百四十二人",
+              "八萬○五百十三人"
+            ],
+            [
+              "出診及特別掛號",
+              "三百十八人",
+              "七百十六人",
+              "七十一人",
+              "一千一百○五人"
+            ],
+            [
+              "急診",
+              "三百七十七人",
+              "五千七百六十人",
+              "無",
+              "六千一百三十七人"
+            ],
+            [
+              "救治服食烟毒",
+              "四百十四人",
+              "無",
+              "無",
+              "四百十四人"
+            ],
+            [
+              "種痘",
+              "無",
+              "五百十二人",
+              "無",
+              "五百十二人"
+            ],
+            [
+              "總數",
+              "一萬六千○五十八人",
+              "六萬八千一百三十四人",
+              "六千○二十一人",
+              "九萬○二百十三人"
+            ]
+          ],
+          "order": 1
+        }
+      ],
+      "layout_note": "原掃描內表格側排，另以無書頁切換的 270° 正向旋轉圖判讀。表頭日期與列欄標記分別保留；圈號統一以 U+25CB 對應原印圈形，未改作阿拉伯數字。",
+      "reading_questions": [
+        "需要逐格核兩個圈號、各欄小計及原刊不同的分項加總；保留印刷數值。"
+      ]
+    },
+    {
+      "page_id": "p009",
+      "image": 9,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=9",
+      "source_sha256": "88c2144f66304ffb68bde9fcc30febcac9564ae8990e2673e8cf5f87579cca25",
+      "width": 1192,
+      "height": 1600,
+      "bytes": 59409,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p009-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一千九百十三年各項入款列左",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p009-c02",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p009-c03",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "八",
+          "bbox": null,
+          "order": 3
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p009-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "上年存款",
+              "洋四十八元四角一分"
+            ],
+            [
+              "西人捐",
+              "洋四千二百三十六元二角三分"
+            ],
+            [
+              "華人捐",
+              "洋一千二百二十八元五角"
+            ],
+            [
+              "號金",
+              "洋二千八百四十三元一角六分"
+            ],
+            [
+              "膳金",
+              "洋一百二十四元零三分"
+            ],
+            [
+              "包房間病人",
+              "洋六千四百零九元九角八分"
+            ],
+            [
+              "美國聖公會助款",
+              "洋三千二百零九元九角"
+            ],
+            [
+              "捐款",
+              "洋十一元九角"
+            ],
+            [
+              "利息",
+              "洋七百六十元八角七分"
+            ],
+            [
+              "英美工部局助款",
+              "洋四千零六十八元一角九分"
+            ],
+            [
+              "法工部局助款",
+              "洋一百三十五元一角三分"
+            ]
+          ],
+          "order": 1
+        }
+      ]
+    },
+    {
+      "page_id": "p010",
+      "image": 10,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=10",
+      "source_sha256": "4ab7223fa93f935ae5f1aab15f34d0031fcdf0ed304c548059c6976c581b9c0d",
+      "width": 1192,
+      "height": 1600,
+      "bytes": 66011,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p010-c01",
+          "kind": "total",
+          "layer": "total",
+          "text": "共計洋二萬七千四百三十九元八角",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p010-c02",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "一千九百十三年各項出款列左",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p010-c03",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p010-c04",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "九",
+          "bbox": null,
+          "order": 4
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p010-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "中外清單賬簿醫單等",
+              "洋六十一元三角六分"
+            ],
+            [
+              "雜項",
+              "洋三十九元六角三分"
+            ],
+            [
+              "添置傢生等",
+              "洋一千九百零四元三角七分"
+            ],
+            [
+              "薪水",
+              "洋四千三百三十七元八角二分"
+            ],
+            [
+              "修理",
+              "洋一千八百三十三元一角二分"
+            ],
+            [
+              "藥材及外症所用各物",
+              "洋四千五百二十七元七角二分"
+            ],
+            [
+              "工金",
+              "洋二千八百五十二元四角二分"
+            ],
+            [
+              "煤水火費",
+              "洋二千四百十六元二角五分"
+            ],
+            [
+              "地捐及保險德律風費",
+              "洋五百六十四元七角五分"
+            ],
+            [
+              "裝修房屋",
+              "洋二千七百五十四元八角二分"
+            ]
+          ],
+          "order": 2
+        }
+      ],
+      "reading_questions": [
+        "頭項首欄「賬簿」為暫判字形。"
+      ]
+    },
+    {
+      "page_id": "p011",
+      "image": 11,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=11",
+      "source_sha256": "2d2161cb7f8caf399de0e55dc96bf3cf32312715ac8bb8b39b7c2602bf5ebaeb",
+      "width": 1204,
+      "height": 1600,
+      "bytes": 32131,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p011-c01",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p011-c02",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十",
+          "bbox": null,
+          "order": 2
+        }
+      ],
+      "layer_states": {
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p011-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "房租",
+              "洋九百三十六元五角"
+            ],
+            [
+              "出門行醫盤費",
+              "洋六十八元一角九分"
+            ],
+            [
+              "收西人捐薪水",
+              ""
+            ],
+            [
+              "洗衣費",
+              "洋六百二十元"
+            ],
+            [
+              "廚房",
+              ""
+            ],
+            [
+              "存滙豐銀行",
+              "洋一百五十九元三角六分"
+            ],
+            [
+              "共計",
+              ""
+            ]
+          ],
+          "order": 0
+        }
+      ],
+      "layout_note": "三個欄位於原掃描無印金額，保留空值，未補零。另待核空處的紙面、刮去或遮蔽狀態。"
+    },
+    {
+      "page_id": "p012",
+      "image": 12,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=12",
+      "source_sha256": "31aa066b56e8c635fee9bb684782ab5ebac251d3cdc7641a91f4f9383eb846e0",
+      "width": 1204,
+      "height": 1600,
+      "bytes": 51590,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p012-c01",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "捐助諸君姓名列後",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p012-c02",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p012-c03",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十一",
+          "bbox": null,
+          "order": 3
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p012-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "青年會",
+              "捐洋二百元",
+              ""
+            ],
+            [
+              "恆昌祥機器廠",
+              "捐洋一百三十六元二角",
+              ""
+            ],
+            [
+              "恆豐紡織新局",
+              "捐洋一百元",
+              ""
+            ],
+            [
+              "又新工廠",
+              "捐洋一百元",
+              ""
+            ],
+            [
+              "滬楓鐵路總工成局",
+              "捐洋一百元",
+              ""
+            ],
+            [
+              "招商內河輪船局",
+              "捐洋一百元",
+              ""
+            ],
+            [
+              "裕昌泰",
+              "捐洋一百元",
+              "升記"
+            ],
+            [
+              "武棟森君",
+              "捐洋五十元",
+              ""
+            ],
+            [
+              "宏昌碾米廠",
+              "捐洋三十元七角",
+              ""
+            ],
+            [
+              "李九梅君",
+              "捐洋三十元",
+              ""
+            ],
+            [
+              "史娘娘",
+              "捐洋二十四元",
+              ""
+            ]
+          ],
+          "order": 1
+        }
+      ],
+      "layout_note": "裕昌泰旁有小字附記，保留於同列第三欄。",
+      "reading_questions": [
+        "裕昌泰旁兩小字先讀升記，左右次序與字形待核。"
+      ]
+    },
+    {
+      "page_id": "p013",
+      "image": 13,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=13",
+      "source_sha256": "aaa0e30c1489570121584663a1e1516a7c06f6e7e0a63a8ed15522ad3fa8d1dc",
+      "width": 1218,
+      "height": 1600,
+      "bytes": 42191,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p013-c01",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p013-c02",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十二",
+          "bbox": null,
+          "order": 2
+        }
+      ],
+      "layer_states": {
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p013-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "王寶峯",
+              "捐洋二十元"
+            ],
+            [
+              "陶鶴停",
+              "捐洋十六元六角"
+            ],
+            [
+              "熊謙恬",
+              "捐洋十元"
+            ],
+            [
+              "光裕堂",
+              "捐洋十元"
+            ],
+            [
+              "大豐洋布號",
+              "捐洋十元"
+            ],
+            [
+              "慎德堂",
+              "捐洋十元"
+            ],
+            [
+              "浙江銀行",
+              "捐洋十元"
+            ],
+            [
+              "楊漢汀君",
+              "捐洋十元"
+            ],
+            [
+              "劉寶餘君",
+              "捐洋十元"
+            ],
+            [
+              "陳合元君",
+              "捐洋十元"
+            ],
+            [
+              "夏祖根君",
+              "捐洋五元"
+            ],
+            [
+              "吳學祖君",
+              "捐洋五元"
+            ]
+          ],
+          "order": 0
+        }
+      ],
+      "reading_questions": [
+        "陶鶴停及慎德堂為初讀，候選「亭／停」「慎／愼」。"
+      ]
+    },
+    {
+      "page_id": "p014",
+      "image": 14,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=14",
+      "source_sha256": "a745bfb6aa48ec8067d93fe99eadb2a9ba5db0c43b8c90218fefa7438d8d2883",
+      "width": 1218,
+      "height": 1600,
+      "bytes": 39705,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p014-c01",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p014-c02",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十三",
+          "bbox": null,
+          "order": 2
+        }
+      ],
+      "layer_states": {
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p014-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "張介美君",
+              "捐洋五元"
+            ],
+            [
+              "楊子榮君",
+              "捐洋五元"
+            ],
+            [
+              "唐鴻樓君",
+              "捐洋五元"
+            ],
+            [
+              "吳阿喜君",
+              "捐洋五元"
+            ],
+            [
+              "胡永生君",
+              "捐洋三元"
+            ],
+            [
+              "李大元君",
+              "捐洋二元"
+            ],
+            [
+              "王美泰君",
+              "捐洋二元"
+            ],
+            [
+              "李少卿君",
+              "捐洋二元"
+            ],
+            [
+              "黃仰九君",
+              "捐洋一元"
+            ],
+            [
+              "胡麗堂君",
+              "捐洋一元"
+            ],
+            [
+              "姚洪梅君",
+              "捐洋一元"
+            ],
+            [
+              "陸阿臣君",
+              "捐洋一元"
+            ]
+          ],
+          "order": 0
+        }
+      ]
+    },
+    {
+      "page_id": "p015",
+      "image": 15,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=15",
+      "source_sha256": "6250066e90ac00eac7b0ba32723bc56d33cf05e95cb297e3024c4862313a5409",
+      "width": 1196,
+      "height": 1600,
+      "bytes": 49736,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p015-c01",
+          "kind": "subtotal",
+          "layer": "subtotal",
+          "text": "以上共給一千二百二十八元五角",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p015-c02",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p015-c03",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十四",
+          "bbox": null,
+          "order": 4
+        }
+      ],
+      "layer_states": {
+        "subtotal": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p015-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "金祥生君",
+              "捐洋一元"
+            ],
+            [
+              "龔錫卿君",
+              "捐洋一元"
+            ],
+            [
+              "榮子民君",
+              "捐洋一元"
+            ],
+            [
+              "吳少春君",
+              "捐洋一元"
+            ],
+            [
+              "袁培盛君",
+              "捐洋一元"
+            ],
+            [
+              "無民氏",
+              "捐洋一元"
+            ],
+            [
+              "郁聽濤君",
+              "捐洋一元"
+            ],
+            [
+              "聚康莊",
+              "捐洋一元"
+            ],
+            [
+              "無名氏",
+              "捐洋九十元（此一項內有數位名姓不詳）"
+            ]
+          ],
+          "order": 0
+        },
+        {
+          "id": "p015-table-b",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "樊皇渡聖約翰堂",
+              "捐洋一百零五元一角二分"
+            ],
+            [
+              "招商局",
+              "捐洋五十元"
+            ]
+          ],
+          "order": 2
+        }
+      ],
+      "layout_note": "原刊小計置於第一組名單與其下續列之間。按原序留三個段落。",
+      "reading_questions": [
+        "匿名一元條初讀無民氏，與另列無名氏分開；小計「給」待核。"
+      ]
+    },
+    {
+      "page_id": "p016",
+      "image": 16,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=16",
+      "source_sha256": "bc1b9c5038890242ef3ce45a27c081d96d39f68006c8caf79ac7614c6491bfdc",
+      "width": 1196,
+      "height": 1600,
+      "bytes": 33083,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p016-c01",
+          "kind": "body",
+          "layer": "body",
+          "text": "以上四項已入西文清單簿",
+          "bbox": null,
+          "order": 1
+        },
+        {
+          "id": "p016-c02",
+          "kind": "body",
+          "layer": "body",
+          "text": "茲再入華文清單簿觀冊諸君更可一目了然",
+          "bbox": null,
+          "order": 2
+        },
+        {
+          "id": "p016-c03",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "p016-c04",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十五",
+          "bbox": null,
+          "order": 4
+        }
+      ],
+      "layer_states": {
+        "body": "complete",
+        "running": "complete",
+        "folio": "complete",
+        "table": "complete"
+      },
+      "tables": [
+        {
+          "id": "p016-table",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "招商局（虹口及楊家渡碼頭）",
+              "捐洋五十元"
+            ],
+            [
+              "中國銀行",
+              "捐洋十元"
+            ]
+          ],
+          "order": 0
+        }
+      ],
+      "reading_questions": [
+        "原印「簿觀冊」處版面讀序與字形待核。"
+      ]
+    },
+    {
+      "page_id": "p017",
+      "image": 17,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=17",
+      "source_sha256": "ba9f128082cc368eabab05c899f7692826655202cf031480a1043e70aac2caee",
+      "width": 1226,
+      "height": 1600,
+      "bytes": 19398,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p017-c01",
+          "kind": "running",
+          "layer": "running",
+          "text": "同仁醫院清單",
+          "bbox": null,
+          "order": 0
+        },
+        {
+          "id": "p017-c02",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十六",
+          "bbox": null,
+          "order": 1
+        }
+      ],
+      "layer_states": {
+        "running": "complete",
+        "folio": "complete",
+        "figure_labels": "absent-after-visual-check"
+      },
+      "figures": [
+        {
+          "id": "p017-fig01",
+          "description": "頁中花草飾圖",
+          "bbox": [
+            395,
+            687,
+            556,
+            905
+          ],
+          "labels_checked": true,
+          "labels_present": false
+        }
+      ],
+      "layout_note": "原刊頁框文字與原頁碼已讀。中央圖案內無可見文字。"
+    },
+    {
+      "page_id": "p018",
+      "image": 18,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/NLC416-13jh007190-105055_%E4%B8%8A%E6%B5%B7%E8%99%B9%E5%8F%A3%E5%90%8C%E4%BB%81%E9%86%AB%E9%99%A2%E6%B8%85%E5%96%AE.pdf#page=18",
+      "source_sha256": "0bc9abbc308a03375ca6c870858fcf01cd379feb46588e99c10eaeffa8e89837",
+      "width": 978,
+      "height": 1600,
+      "bytes": 21549,
+      "layout_reviewed": true,
+      "units": [],
+      "layer_states": {
+        "original_text": "absent-after-visual-check",
+        "later_marks": "excluded-by-policy"
+      },
+      "blank": "無原刊文字，僅後加館藏管理標記",
+      "layout_note": "有後加架號、手寫與書籤，未見原刊文字。保留影像定位。"
+    }
+  ],
+  "corrections": [
+    "影像 2　總董的譯名中兩字初讀斐尉，候選有裴；須以圖核華名，不據歷史通行拼法改。",
+    "影像 2　王寶峯同見 p013，字形待核對。",
+    "影像 3　洪吏卿、李藹門及湯謁禮為初讀，姓名須逐字回圖。所有職務對應保留圖面原位，沒有推論。",
+    "影像 4　住院末第二完整欄「先惠」初讀，候選「先惠／先惠〔音形待核〕」，以影像原字為準。",
+    "影像 6　「調驗」「薛文義」及譚虞二姓初讀待對圖。",
+    "影像 7　結尾「靡暨」先存初讀，字形和詞義待獨立覆核。",
+    "影像 8　需要逐格核兩個圈號、各欄小計及原刊不同的分項加總；保留印刷數值。",
+    "影像 10　頭項首欄「賬簿」為暫判字形。",
+    "影像 12　裕昌泰旁兩小字先讀升記，左右次序與字形待核。",
+    "影像 13　陶鶴停及慎德堂為初讀，候選「亭／停」「慎／愼」。",
+    "影像 15　匿名一元條初讀無民氏，與另列無名氏分開；小計「給」待核。",
+    "影像 16　原印「簿觀冊」處版面讀序與字形待核。"
+  ]
+}
