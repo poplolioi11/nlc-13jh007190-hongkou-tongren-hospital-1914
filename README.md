@@ -8,7 +8,7 @@ This report of Tongren Hospital in Hongkou, Shanghai covers the year from 16 Sep
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 全冊 AI 輔助初錄，17 幅含原刊文字，末幅為後加館藏標記。疑讀與原件位置另記。尚待人工逐字核對。
+- 全冊經兩份隔離 AI 原圖讀稿比對，附逐頁異讀與回圖訂正，未定字仍標示。尚待人工校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。來源影像的權利與使用條件見原件頁。
 

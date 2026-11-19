@@ -94,8 +94,8 @@
         <ab type="heading" n="p001-c02">虹口</ab>
         <ab type="heading" n="p001-c03">同仁醫院清單</ab>
         <ab type="date" n="p001-c04">西曆一千九百</ab>
-        <ab type="date" n="p001-c05">廿三</ab>
-        <ab type="date" n="p001-c06">廿四</ab>
+        <ab type="date" n="p001-c05">十三</ab>
+        <ab type="date" n="p001-c06">十四</ab>
         <ab type="date" n="p001-c07">年</ab>
         <ab type="date" n="p001-c08">九月十六號起</ab>
         <ab type="date" n="p001-c09">九月十五號止</ab>
@@ -116,7 +116,7 @@
         <ab type="annotation" n="p002-c09">書記</ab>
         <ab type="roster" n="p002-c10">韓玉麟</ab>
         <ab type="roster" n="p002-c11">聶管臣</ab>
-        <ab type="roster" n="p002-c12">王寶峯</ab>
+        <ab type="roster" n="p002-c12">王寶崙</ab>
         <ab type="roster" n="p002-c13">武棟森</ab>
         <fw type="running" n="p002-c14">同仁醫院清單</fw>
         <pb n="3" facs="#page-3" />
@@ -153,11 +153,11 @@
         <ab type="heading" n="p004-c01">就診條例</ab>
         <ab type="heading" n="p004-c02">一門診</ab>
         <ab type="body" n="p004-c03">除禮拜日外每日分上下午門診上午門診為有力者設立自九</ab>
-        <ab type="body" n="p004-c04">時至十二時止號金洋一元至二元另加藥資下午門診專為貧</ab>
+        <ab type="body" n="p004-c04">時至十二時止號金洋一元至二元另加藥資下午門診專醫貧</ab>
         <ab type="body" n="p004-c05">病自二時至四時止祇取號金錢五十文稍有力者略貼藥資實</ab>
         <ab type="body" n="p004-c06">係無力者號金概不收取</ab>
         <ab type="heading" n="p004-c07">一急診</ab>
-        <ab type="body" n="p004-c08">如有服毒吞金暴病及跌打損傷等症可隨時來院就診並不收</ab>
+        <ab type="body" n="p004-c08">如有服毒吞金暴病及跌打損傷等症可隨時來院就醫並不收</ab>
         <ab type="body" n="p004-c09">費</ab>
         <ab type="heading" n="p004-c10">一住院</ab>
         <ab type="body" n="p004-c11">住院病人分內外科及上中下三等貧病毫不取費稍有力者每</ab>
@@ -191,7 +191,7 @@
         <ab type="body" n="p006-c06">察最新醫學今亦回院主持調驗事務無不盡心體察更有麥克根醫士曾在</ab>
         <ab type="body" n="p006-c07">粵省施醫七年兼任本薛文義醫學校事今因該校併設滬江聖約翰大學校</ab>
         <ab type="body" n="p006-c08">內因此麥君能得來滬任理本院醫事回憶去歲院中醫士尚少於今而負病</ab>
-        <ab type="body" n="p006-c09">求診者年復增廣雖得各醫士照常擔負恆有病狀不敷之憂故於今歲特添</ab>
+        <ab type="body" n="p006-c09">求診者年復增廣雖得各醫士照常擔負恆有病牀不敷之憂故於今歲特添</ab>
         <ab type="body" n="p006-c10">看護服役等人以及添置器具藥品與種種便人之事固不畢舉更望將來再</ab>
         <ab type="body" n="p006-c11">能擴充病室尤所深願向我本院中醫辦事亦甚得手惜乎譚虞二醫生於今</ab>
         <ab type="body" n="p006-c12">秋自行告辭離院幸喜吳慶元及高恩養二醫士允聘來院以承斯職尤喜哈</ab>
@@ -227,7 +227,7 @@
           <row>
             <cell>門診</cell>
             <cell>一萬四千五百八十一人</cell>
-            <cell>六萬○○九十八人</cell>
+            <cell>六萬○○九十人</cell>
             <cell>五千八百四十二人</cell>
             <cell>八萬○五百十三人</cell>
           </row>
@@ -463,7 +463,7 @@
         <pb n="13" facs="#page-13" />
         <table n="p013-table">
           <row>
-            <cell>王寶峯</cell>
+            <cell>王寶崙</cell>
             <cell>捐洋二十元</cell>
           </row>
           <row>
@@ -471,7 +471,7 @@
             <cell>捐洋十六元六角</cell>
           </row>
           <row>
-            <cell>熊謙恬</cell>
+            <cell>熊<gap reason="unresolved" quantity="1" unit="character" />恬</cell>
             <cell>捐洋十元</cell>
           </row>
           <row>

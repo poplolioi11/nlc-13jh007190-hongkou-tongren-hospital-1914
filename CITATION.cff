@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
 title: "上海虹口同仁醫院清單 | Shanghai Hongkou Tongren Yiyuan Qingdan [Annual Report of Tongren Hospital in Hongkou, Shanghai]"
-version: "0.1.0"
+version: "0.2.0"
 authors:
   - family-names: Chu
     given-names: Chen-Yu
