@@ -13,3 +13,13 @@ This report of Tongren Hospital in Hongkou, Shanghai covers the year from 16 Sep
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。來源影像的權利與使用條件見原件頁。
 
 - 資料整理者曲宸宇（Chen-Yu Chu）。 [ORCID](https://orcid.org/0009-0003-9738-6914)
+
+## 公開版本與引用 · Public editions
+
+- [Zenodo 固定版 v0.2.0](https://doi.org/10.5281/zenodo.24363189)
+- [Zenodo 版本總入口](https://doi.org/10.5281/zenodo.24363007)
+- [GitHub 固定版 v0.2.0](https://github.com/poplolioi11/nlc-13jh007190-hongkou-tongren-hospital-1914/releases/tag/v0.2.0)
+- [中文維基文庫原文](https://zh.wikisource.org/wiki/Special:PermanentLink/13113655)
+- [古中國醫學史文獻轉錄資料社群](https://zenodo.org/communities/late-qing-medical-history)
+
+請用固定版本 ZIP 內的 `SHA256SUMS` 核對封存檔。主分支的說明及引用資料可隨 DOI 登記更新。
